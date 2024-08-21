@@ -8,7 +8,7 @@ import threading
 
 
 # Укажите токен вашего телеграмм бота
-TOKEN = '6568395720:AAEVlxUZIvgDoqIPgEvAesCbSlogZGJieXg'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 
